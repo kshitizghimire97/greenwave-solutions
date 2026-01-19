@@ -40,13 +40,14 @@
           <ul class="footer-links">
             <li><a href="#services" @click="scrollTo('services')">Solar Installation</a></li>
             <li><a href="#services" @click="scrollTo('services')">Energy Audits</a></li>
-            <li><a href="#services" @click="scrollTo('services')">Industrial Surveys</a></li>
-            <li><a href="#services" @click="scrollTo('services')">EV Consulting</a></li>
+            <li><a href="#services" @click="scrollTo('services')">Industrial Consultations</a></li>
+            <li><a href="#services" @click="scrollTo('services')">Engineering Consulting Services</a></li>
+            <li><a href="#services" @click="scrollTo('services')">Motor Insurance Surveys</a></li>
           </ul>
         </div>
       </div>
       <div class="footer-bottom">
-        <p>&copy; 2024 Greenwave Solutions Pvt. Ltd. All rights reserved.</p>
+        <p>&copy; 2026 Greenwave Solutions Pvt. Ltd. All rights reserved.</p>
       </div>
     </div>
   </footer>
