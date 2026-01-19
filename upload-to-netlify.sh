@@ -2,10 +2,10 @@
 
 git add .
 git commit -m "update"
-git push
+git push origin main
 pnpm build
 git checkout build
 git add dist
 git commit -m "update"
-git push
+git push origin build
 git checkout main
